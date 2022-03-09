@@ -1,1 +1,1 @@
-worker: python3 -m rawrWilnaBot
+worker: python3 -m SkyzuRobot
